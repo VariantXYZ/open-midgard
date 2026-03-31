@@ -1,6 +1,7 @@
 #pragma once
 
-#include <d3d.h>
+#include "d3d_compat.h"
+
 #include <vector>
 
 struct ModernTextureStageState {

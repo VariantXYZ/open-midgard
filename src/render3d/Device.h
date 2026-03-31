@@ -2,7 +2,8 @@
 
 #include <windows.h>
 #include <ddraw.h>
-#include <d3d.h>
+#include "d3d_compat.h"
+
 #include <stdio.h>
 #include "render/Renderer.h"
 #include "res/Texture.h"

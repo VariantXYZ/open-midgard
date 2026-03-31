@@ -2,7 +2,9 @@
 
 #include <windows.h>
 #include <ddraw.h>
-#include <d3d.h>
+#include <dxgi1_4.h>
+#include "d3d_compat.h"
+
 #include <vector>
 #include <list>
 #include <map>
